@@ -1,0 +1,44 @@
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csprojResolveAssemblyReference.cache
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form1.resources
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form3.resources
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Properties.Resources.resources
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csproj.GenerateResource.Cache
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe.config
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.pdb
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.exe
+c:\users\josip krišto\documents\visual studio 2017\Projects\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.pdb
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe.config
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.exe
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.pdb
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.pdb
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csprojResolveAssemblyReference.cache
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form1.resources
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form3.resources
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Properties.Resources.resources
+C:\Users\Mario Mijic\Desktop\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csproj.GenerateResource.Cache
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe.config
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.exe
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.pdb
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.pdb
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csprojResolveAssemblyReference.cache
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form1.resources
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form3.resources
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Properties.Resources.resources
+C:\Users\Mario Mijic\Desktop\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csproj.GenerateResource.Cache
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe.config
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.exe
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\SeminarskiRad.pdb
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csprojResolveAssemblyReference.cache
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form1.resources
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Form3.resources
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.Properties.Resources.resources
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.csproj.GenerateResource.Cache
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.exe
+C:\Users\Josip Krišto\Documents\Visual Studio 2017\Projects\SeminarskiRad-1\SeminarskiRad (1)\SeminarskiRad\SeminarskiRad\obj\Debug\SeminarskiRad.pdb
